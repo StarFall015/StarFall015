@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 My name is Kieran Bradbury, I am an aspiring software developer and a Computer Science student at Staffordshire University. I am in my second year at University and my current modules are Server-Side programming, Web Development, Databases and Data structures and Commercial Computing. In Server-Side Programming we have been covering PHP using MVC, WordPress and have now started on Node. In Web Development we have been working with Vite, Tailwind and TypeScript. In Databases and Data structures we have been doing SQL in an Oracle Database and we are beginning algorithms in psudocode. In Commercial Computing we are working on employability skills and project management.
 
-I enjoy working on the back-end solving problems and doing things that make me think hard. 
+I enjoy working on the back-end solving problems and doing things that make me think hard. My favourite languages are Python and C#, I am currently looking into learning Django and ASP.Net to be able to use these languages in web pages.
