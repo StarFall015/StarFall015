@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 <!--
 **StarFall015/StarFall015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Kieran Bradbury, I am an aspiring software developer and a Computer Science student at Staffordshire University. I enjoy working on the back-end solving problems and doing things that make me think hard. 
+My name is Kieran Bradbury, I am an aspiring software developer and a Computer Science student at Staffordshire University. I am in my second year at University and my current modules are Server-Side programming, Web Development, Databases and Data structures and Commercial Computing. In Server-Side Programming we have been covering PHP using MVC, WordPress and have now started on Node. In Web Development we have been working with Vite, Tailwind and TypeScript. In Databases and Data structures we have been doing SQL in an Oracle Database and we are beginning algorithms in psudocode. In Commercial Computing we are working on employability skills and project management.
+
+I enjoy working on the back-end solving problems and doing things that make me think hard. 
